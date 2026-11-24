@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tusharhire29
+- 👨‍💻 DevOps Engineer
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on new web devlopment
 - 📫 How to reach me tusharkhire29@gmail.com
 <!---
